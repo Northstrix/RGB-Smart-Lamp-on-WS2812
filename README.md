@@ -14,7 +14,7 @@ Note: If you're using more than 60 LEDs in your project you should use a phone c
 And don't forget to put a capacitor for at least 1000 mkf if you're using a crappy power source.
 
 After you've completed building this device you need an app to control it.
-You can get Remote XY app here: https://remotexy.com/
+You can get RemoteXY app here: https://remotexy.com/
 
 After you installed the app connect Arduino to your phone via Bluetooth and enter a password (1234 by default).
 
